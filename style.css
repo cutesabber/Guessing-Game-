@@ -1,0 +1,29 @@
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-color: darkslategray;
+}
+h1 {
+    text-align: center;
+    color:darkseagreen;
+    font-size: 50px;
+}
+p {
+    text-align: center;
+    color: darkseagreen ;
+    font-size: 50px ;
+}
+label {
+    font-size: 30px;
+    color: darkseagreen;
+}
+input{
+    padding: 20px;
+}
+#submitguess{
+  background-color: darkslateblue;
+  color: white;
+  font-size: 18x;
+}
